@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'D:\Productivity_Governance_app(From second repo)\backend\venv'
+set -gx VIRTUAL_ENV 'C:\Users\sumanjali.segu\Downloads\PGA\stackmaster-governance-app-be\venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH
